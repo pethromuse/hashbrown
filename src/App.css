@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color: orange;
+  background-color: #ffa500;
 }
 
 .App-logo {
@@ -39,4 +39,158 @@ body {
   to {
     transform: rotate(360deg);
   }
+}
+
+
+
+.fa {
+  margin-right: 5px; }
+
+.jumbotron {
+  background: none;
+  border-radius: 0; }
+
+body {
+  margin: 0 !important;
+  padding: 0 !important; }
+
+.element {
+  padding-top: 55px; }
+
+.header-info-bg {
+  background: linear-gradient(100deg, #FFC107, orange) }
+
+.main-project-bg {
+  border-bottom: 1px solid #E0E0E0; }
+
+.main-career-bg {
+  background: #868e96; }
+
+.contact-bg {
+  background: #343a40; }
+
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0; }
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block; }
+
+ul, ol {
+  list-style: none; }
+
+blockquote, q {
+  quotes: none; }
+
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none; }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+a {
+  color: inherit;
+  text-decoration: none;
+  outline: none; }
+
+button {
+  border-radius: 0;
+  cursor: pointer; }
+
+.navbar-nav {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end; 
+  background-color: #262628;
+  color: #ebedee;  
+height: 80px;}
+  @media screen and (min-width: 0px) and (max-width: 768px) {
+    .navbar-nav {
+      justify-content: space-around; } }
+
+.nav-item {
+  margin-left: 15px; 
+  margin-top: 40px;}
+
+.nav-link {
+  font-family: fantasy;
+  font-weight: 300;
+  font-size: 1.9rem; }
+
+.navbar-active-wrapper {
+  position: relative; }
+
+.navbar-m {
+  display: none; }
+
+.navbar-m-active {
+  position: absolute;
+  top: 20px;
+  right: -20px;
+  background: #f8f9fa;
+  width: 100px;
+  border-radius: 5px;
+  line-height: 2.2;
+  z-index: 1;
+  text-align: center;
+  border: 1px solid #dfe0e1;
+  padding: 10px 10px; }
+  .navbar-m-active .navbar-active-item {
+    cursor: pointer;
+    font-weight: 300; }
+    .navbar-m-active .navbar-active-item:hover {
+      font-weight: 500; }
+
+
+.nav-link {
+  cursor: pointer; }
+
+.header-content-text{
+  font-size: 1.9rem;
+  font-family: fantasy;
+  font-weight: 400;
+  color: #151314;
+  text-align: center;
+}
+
+.header-info {
+  min-height: 100vh; }
+  
+.bg-wrapper {
+  text-align: center;
+}
+
+.img-portfolio{
+  border-style: solid;
+    border-radius: 17px;
+    border-width: medium;
+    border-color: #e8d278;
+}
+
+.img-asp {
+  width: 300px;
+  height: 200px;
+  padding: 5px;
 }
