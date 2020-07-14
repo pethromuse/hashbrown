@@ -23,6 +23,9 @@ class App extends Component {
         <Element name="hello" className="element header-info-bg">
           <HeaderInfo />
         </Element>
+        <Element name="hello" className="element header-info-bg">
+          <MainCareer />
+        </Element>
         <Element name="Bond" className="element main-project-bg">
           <MainProject1 />
         </Element>

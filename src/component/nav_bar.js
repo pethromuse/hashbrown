@@ -23,7 +23,7 @@ class NavBar extends Component {
           <div className="container">
             <div className="nav-items col-md-6 col-xs-12" id="navbarSupportedContent">
               <ul className="navbar-nav">
-              
+              <div className="navbar-innder">
                 <li className="nav-item active" id="first-item">
                   <Link activeClass="active" className="nav-link" to="hello" spy={true} smooth={true} offset={50} duration={500} onSetActive={this.handleSetActive}>
                   Home
@@ -59,6 +59,7 @@ class NavBar extends Component {
                     Email
                   </Link>
                 </li>
+                </div>
               </ul>
             </div>
           </div>

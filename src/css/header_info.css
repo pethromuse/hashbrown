@@ -1,0 +1,126 @@
+.header-info {
+    background-repeat: round;
+    width: 100%;    
+    min-height: 100vh; 
+    top: 0;
+    left: 0;
+}
+
+.navbar-nav {
+    position: absolute;
+    top: -10px;
+    width: 100%;
+    flex-direction: row;
+    justify-content: flex-end; 
+    background-color: #262628;
+    color: #ebedee;  
+    height: 80px;
+    border-radius: 15px;
+}
+
+.navbar-innder {
+    width: 90%;
+    display: flex;
+    justify-content: space-between;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navbar-m-active {
+    position: absolute;
+    top: 20px;
+    right: -20px;
+    background: #f8f9fa;
+    width: 100px;
+    border-radius: 5px;
+    line-height: 2.2;
+    z-index: 1;
+    text-align: center;
+    border: 1px solid #dfe0e1;
+    padding: 10px 10px; }
+    .nav-link {
+        font-family: fantasy;
+        font-weight: 200;
+    }
+      
+    
+
+@media screen and (min-width: 0px) and (max-width: 380px) {
+    .navbar-nav {
+        font-size: 14px;} 
+    .nav-item {
+            margin-top: 60px;
+    }
+    .header-content-text{
+        font-size: 1.2rem;
+        font-weight: 900;
+      }
+      .img-portfolio{
+      width: 80%;
+      }
+}
+
+@media screen and (min-width: 381px) and (max-width: 768px) {
+    .navbar-nav {
+        font-size: 18px;} 
+    .nav-item {
+            margin-top: 50px;
+    }
+    .header-content-text{
+        font-size: 1.6rem;        
+        font-weight: 900;
+      }
+      .img-portfolio{
+        width: 60%;
+        }
+}
+@media screen and (min-width: 769px) {
+    .navbar-nav {
+        font-size: 1.4rem;
+    } 
+    .nav-item {
+        margin-top: 40px;
+    }
+    .header-content-text{
+        font-size: 2.0rem;
+        font-weight: 900;
+      }
+      .img-portfolio{
+        width: 40%;
+      }
+
+}
+.header-content-text {
+    font-family: 'Gamja Flower', cursive !important;    
+    color: #000000;
+    text-align: center;
+  }
+      
+/*
+.navbar-m-active .navbar-active-item {
+      cursor: pointer;
+      font-weight: 300; }
+.navbar-m-active .navbar-active-item:hover {
+        font-weight: 500; }
+  
+
+
+  @media screen and (min-width: 0px) and (max-width: 768px) {
+    .navbar-nav {
+      justify-content: space-between; } }
+
+
+
+.navbar-active-wrapper {
+  position: relative; }
+
+.navbar-m {
+  display: none; }
+
+
+
+.nav-link {
+  cursor: pointer; }
+
+
+  */
