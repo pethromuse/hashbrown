@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/hashbrown/static/css/main.622100b3.chunk.css",
-    "main.js": "/hashbrown/static/js/main.007dfbb8.chunk.js",
-    "main.js.map": "/hashbrown/static/js/main.007dfbb8.chunk.js.map",
+    "main.css": "/hashbrown/static/css/main.09accdf2.chunk.css",
+    "main.js": "/hashbrown/static/js/main.52ab82d8.chunk.js",
+    "main.js.map": "/hashbrown/static/js/main.52ab82d8.chunk.js.map",
     "runtime-main.js": "/hashbrown/static/js/runtime-main.f3ce6e8d.js",
     "runtime-main.js.map": "/hashbrown/static/js/runtime-main.f3ce6e8d.js.map",
     "static/js/2.3f5349f8.chunk.js": "/hashbrown/static/js/2.3f5349f8.chunk.js",
     "static/js/2.3f5349f8.chunk.js.map": "/hashbrown/static/js/2.3f5349f8.chunk.js.map",
     "index.html": "/hashbrown/index.html",
-    "precache-manifest.80bea16ef563df412e773f4bb7a1c1ac.js": "/hashbrown/precache-manifest.80bea16ef563df412e773f4bb7a1c1ac.js",
+    "precache-manifest.425d2e00ee11cc85557c19d177899fc0.js": "/hashbrown/precache-manifest.425d2e00ee11cc85557c19d177899fc0.js",
     "service-worker.js": "/hashbrown/service-worker.js",
-    "static/css/main.622100b3.chunk.css.map": "/hashbrown/static/css/main.622100b3.chunk.css.map",
+    "static/css/main.09accdf2.chunk.css.map": "/hashbrown/static/css/main.09accdf2.chunk.css.map",
     "static/js/2.3f5349f8.chunk.js.LICENSE.txt": "/hashbrown/static/js/2.3f5349f8.chunk.js.LICENSE.txt",
-    "static/media/asp1.png": "/hashbrown/static/media/asp1.4464fec7.png",
-    "static/media/asp2.png": "/hashbrown/static/media/asp2.4868300b.png",
-    "static/media/asp3.png": "/hashbrown/static/media/asp3.43129e51.png",
+    "static/media/asp1.png": "/hashbrown/static/media/asp1.06a6388e.png",
+    "static/media/asp2.png": "/hashbrown/static/media/asp2.64c2e83a.png",
+    "static/media/asp3.png": "/hashbrown/static/media/asp3.eb2ccb0c.png",
+    "static/media/header-background-img.jpg": "/hashbrown/static/media/header-background-img.e5b20669.jpg",
     "static/media/logo.svg": "/hashbrown/static/media/logo.5d5d9eef.svg",
-    "static/media/mypicture.jpg": "/hashbrown/static/media/mypicture.adfe8ecc.jpg",
-    "static/media/portfolio.png": "/hashbrown/static/media/portfolio.ef029c6d.png"
+    "static/media/mypicture.jpg": "/hashbrown/static/media/mypicture.adfe8ecc.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.f3ce6e8d.js",
     "static/js/2.3f5349f8.chunk.js",
-    "static/css/main.622100b3.chunk.css",
-    "static/js/main.007dfbb8.chunk.js"
+    "static/css/main.09accdf2.chunk.css",
+    "static/js/main.52ab82d8.chunk.js"
   ]
 }
