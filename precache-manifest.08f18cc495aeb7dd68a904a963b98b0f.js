@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "177eb3a141a3b9710ae078f2c652810c",
+    "revision": "c2c09a33a0de56cfe955710af38b99b9",
     "url": "/hashbrown/index.html"
   },
   {
-    "revision": "dc9811e037bfc782383e",
-    "url": "/hashbrown/static/css/main.09accdf2.chunk.css"
+    "revision": "839db507f42cf3a5c4ce",
+    "url": "/hashbrown/static/css/main.71312eb6.chunk.css"
   },
   {
-    "revision": "a34b3a30e9ff0e34e11f",
-    "url": "/hashbrown/static/js/2.3f5349f8.chunk.js"
+    "revision": "6cd067887c64bfd56bfb",
+    "url": "/hashbrown/static/js/2.85816044.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/hashbrown/static/js/2.3f5349f8.chunk.js.LICENSE.txt"
+    "url": "/hashbrown/static/js/2.85816044.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dc9811e037bfc782383e",
-    "url": "/hashbrown/static/js/main.52ab82d8.chunk.js"
+    "revision": "839db507f42cf3a5c4ce",
+    "url": "/hashbrown/static/js/main.27d73abc.chunk.js"
   },
   {
     "revision": "7981d3f1bb69e1d933da",
@@ -38,13 +38,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e5b20669f4db09b637046e5a90c24681",
     "url": "/hashbrown/static/media/header-background-img.e5b20669.jpg"
-  },
-  {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/hashbrown/static/media/logo.5d5d9eef.svg"
-  },
-  {
-    "revision": "adfe8ecc8d410b7928b0a19c70068edc",
-    "url": "/hashbrown/static/media/mypicture.adfe8ecc.jpg"
   }
 ]);
