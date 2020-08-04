@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/hashbrown/static/css/main.71312eb6.chunk.css",
-    "main.js": "/hashbrown/static/js/main.27d73abc.chunk.js",
-    "main.js.map": "/hashbrown/static/js/main.27d73abc.chunk.js.map",
+    "main.js": "/hashbrown/static/js/main.f2c9279e.chunk.js",
+    "main.js.map": "/hashbrown/static/js/main.f2c9279e.chunk.js.map",
     "runtime-main.js": "/hashbrown/static/js/runtime-main.f3ce6e8d.js",
     "runtime-main.js.map": "/hashbrown/static/js/runtime-main.f3ce6e8d.js.map",
     "static/js/2.85816044.chunk.js": "/hashbrown/static/js/2.85816044.chunk.js",
     "static/js/2.85816044.chunk.js.map": "/hashbrown/static/js/2.85816044.chunk.js.map",
     "index.html": "/hashbrown/index.html",
-    "precache-manifest.08f18cc495aeb7dd68a904a963b98b0f.js": "/hashbrown/precache-manifest.08f18cc495aeb7dd68a904a963b98b0f.js",
+    "precache-manifest.a85a0b2936310ad366244187a0cc0569.js": "/hashbrown/precache-manifest.a85a0b2936310ad366244187a0cc0569.js",
     "service-worker.js": "/hashbrown/service-worker.js",
     "static/css/main.71312eb6.chunk.css.map": "/hashbrown/static/css/main.71312eb6.chunk.css.map",
     "static/js/2.85816044.chunk.js.LICENSE.txt": "/hashbrown/static/js/2.85816044.chunk.js.LICENSE.txt",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.f3ce6e8d.js",
     "static/js/2.85816044.chunk.js",
     "static/css/main.71312eb6.chunk.css",
-    "static/js/main.27d73abc.chunk.js"
+    "static/js/main.f2c9279e.chunk.js"
   ]
 }
