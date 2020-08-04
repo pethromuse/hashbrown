@@ -6,8 +6,7 @@ import MainProject2 from './component/main_project2';
 import MainProject3 from './component/main_project3';
 import MainCareer from './component/main_career';
 import FooterContact from './component/footer_contact';
-import profileImage from './img/mypicture.jpg'
-import logo from './logo.svg';
+import ThirdPartyApi from './component/third_party_api';
 import Scroll from 'react-scroll';
 import './App.css';
 
@@ -16,10 +15,11 @@ import './App.css';
 let Element = Scroll.Element;
 
 class App extends Component {
-  render() {
+  render() {    
     return (
       <div>
         <NavBar />
+        <ThirdPartyApi/>        
         <Element name="hello" className="element header-info-bg">
           <HeaderInfo />
         </Element>

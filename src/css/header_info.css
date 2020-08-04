@@ -37,11 +37,8 @@
     z-index: 1;
     text-align: center;
     border: 1px solid #dfe0e1;
-    padding: 10px 10px; }
-    .nav-link {
-        font-family: fantasy;
-        font-weight: 200;
-    }
+    padding: 10px 10px; 
+  }
       
     
 
@@ -95,7 +92,37 @@
     color: #000000;
     text-align: center;
   }
-      
+  @media screen and (min-width: 450px) {
+    .mobile-env-nav-bar{
+      display: none;      
+    }
+    .web-env-nav-bar{
+      display: block;
+    }
+  }
+  @media screen and (min-width: 0px) and (max-width: 450px) {
+    .mobile-env-nav-bar{
+      display: block; 
+      text-align: end;  
+    }
+    .web-env-nav-bar{
+      display: none;
+    }
+  }
+  .mobile-env-nav-bar-menu {
+    margin-top: 20px;
+    margin-right: 10px; 
+  }
+  
+  .menu-button {
+    margin-top: 28px;
+    margin-right: 4%;
+    font-size: xx-large;
+  }
+
+
+  
+
 /*
 .navbar-m-active .navbar-active-item {
       cursor: pointer;

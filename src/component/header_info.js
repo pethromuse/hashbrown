@@ -2,14 +2,17 @@ import React, { Component } from 'react';
 import background from '../img/header-background-img.jpg';
 import '../css/header_info.css';
 
+
 class HeaderInfo extends Component {  
+  //System.import('https://kit.fontawesome.com/7fb65a5250.js');
+  
   render() {
     let content = "정대혁의 포트폴리오에 오신것을 환영합니다~";
     let tempWord = "";
     let result = "";
     let index = 0;
       var tyInt = setInterval(typing,200); 
-
+      
       
       function typing(){         
         if(content.length > 0 ){ 

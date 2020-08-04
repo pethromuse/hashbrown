@@ -11,8 +11,36 @@
     display: none;    
 }
 
+
 .image-frame {
     width: 80%;
     margin-left: auto;
     margin-right: auto;
+}
+@media screen and (min-width: 0px) and (max-width: 380px) {
+
+    .image-frame {
+        height: 200px;
+    }
+}
+
+@media screen and (min-width: 381px) and (max-width: 768px) {
+
+    .image-frame {
+        height: 250px;
+    }
+}
+@media screen and (min-width: 769px) and (max-width: 1000px)  {
+    .image-frame {
+        height: 400px;
+    }
+}
+
+@media screen and (min-width: 1001px) {
+    .image-frame {
+        height: 500px;
+    }
+}
+.info-list {
+    margin-bottom: 9px;
 }

@@ -52,7 +52,7 @@ class MainProject1 extends Component {
                   </li>
                   <li className="info-list">
                     <h4 className="content-title">주요 기능</h4>
-                    <p className="content-text">Session기반 로그인 관리기능, 데이터 저장 및 수정, 통계생성 및 분석, 외부시스템과 API인터페이스, 이미지 업로드 및 내려받기(AWS S3와 연동)</p>
+                    <p className="content-text">Session기반 로그인 관리기능, 데이터 저장 및 수정, MSSQL Trigger를 이용한 통계생성, API를 이용하여 외부 고객사 시스템과 인터페이스, 이미지 업로드 및 내려받기(AWS S3와 연동)</p>
                   </li>
                   <li className="info-list">
                     <h4 className="content-title">사용언어 및 기술</h4>

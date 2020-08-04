@@ -49,6 +49,8 @@ body {
 .intro-desc {
   margin-right: 8vw;
   width: 100%;
+  font-family: 'Gamja Flower', cursive !important;
+  font-size: large;
 }
 
 .fa {
@@ -68,10 +70,14 @@ body {
   background-color: white;
 }
 .main-project-bg {
-  border-bottom: 1px solid #E0E0E0; }
+  border-bottom: 1px solid #E0E0E0; 
+  background-color: beige;
+  font-family: 'Gamja Flower', cursive !important;
+}
 
 .contact-bg {
   background: #343a40; }
+  
 
 /* http://meyerweb.com/eric/tools/css/reset/ 
    v2.0 | 20110126
@@ -125,7 +131,7 @@ button {
 
 .bg-wrapper {
   text-align: center;
-  padding-top: 200px;
+  padding-top: 180px;
 }
 
 .img-portfolio{
