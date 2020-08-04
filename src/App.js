@@ -29,12 +29,6 @@ class App extends Component {
         <Element name="Bond" className="element main-project-bg">
           <MainProject1 />
         </Element>
-        <Element name="Mood" className="element main-project-bg">
-          <MainProject2 />
-        </Element>
-        <Element name="Mood" className="element main-project-bg">
-          <MainProject3 />
-        </Element>
         <Element name="Contact" className="element contact-bg">
           <FooterContact />
         </Element>
